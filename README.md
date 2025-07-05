@@ -1,1 +1,3 @@
-# Coding-agent
+# Test Project
+
+Testing GitHub integration.
